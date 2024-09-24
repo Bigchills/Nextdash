@@ -77,7 +77,7 @@ async function seedCustomers() {
     ),
   );
 
-//   return insertedCustomers;
+  return insertedCustomers;
 }
 
 async function seedRevenue() {
